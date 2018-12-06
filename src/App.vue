@@ -6,6 +6,7 @@
     <h1>Welcome</h1>
     <h2>Convert your function to it's corresponding ethereum function identifier</h2>
     <HelloWorld/>
+    <a href="https://github.com/okwme/func-id">github</a>
   </div>
 </template>
 
